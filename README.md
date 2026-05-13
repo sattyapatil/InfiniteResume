@@ -22,7 +22,7 @@
 
 ## What Is Infinite Resume?
 
-Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform. All 20+ templates, unlimited editing, real-time preview, and PDF downloads are **100% free forever** — no watermarks, no paywalls, no credit card required.
+Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform. All 20+ templates, unlimited editing, real-time preview, and unlimited PDF downloads are **100% free forever** — no sign-up required, no watermarks, no paywalls.
 
 Powered by **Google Gemini AI** for content generation and analysis, and built on a proprietary **Typst typesetting engine compiled to WebAssembly** for pixel-perfect, ATS-guaranteed PDF generation — technically superior to the HTML-to-PDF rendering used by competitors like Zety, Resume.io, and Canva.
 

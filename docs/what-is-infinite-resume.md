@@ -5,7 +5,7 @@
 
 ## Overview
 
-Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform. The core resume building functionality — including all 20+ templates, unlimited editing, real-time preview, and PDF downloads — is 100% free forever with no watermarks and no paywalls.
+Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform. The core resume building functionality — including all 20+ templates, unlimited editing, real-time preview, and unlimited PDF downloads — is 100% free forever with no sign-up required, no watermarks, and no paywalls.
 
 Advanced AI features (Deep Scan, AI Chat Coach, Job Tailoring, Cover Letter Generator, Interview Prep, Skill Gap Analysis, Salary Insights) use optional AI Credits. Free users receive 10 credits/month; additional credit packs start from just ₹29 (~$0.34 USD).
 

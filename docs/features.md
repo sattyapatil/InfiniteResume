@@ -49,11 +49,11 @@ Every change you make is reflected instantly in a live preview panel. The Typst 
 
 ### PDF Download
 
+- Unlimited downloads — no restrictions, no limits
 - No watermarks — ever
-- No restrictions on number of downloads
+- No sign-up required to start building
 - 50–150KB file sizes (optimized)
 - Native text layer for ATS parsing
-- No sign-up required to start building
 
 ### DOCX Export
 
