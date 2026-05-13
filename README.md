@@ -1,12 +1,22 @@
-# Infinite Resume
+<p align="center">
+  <a href="https://www.infiniteresume.com">
+    <img src="assets/logo.png" alt="Infinite Resume Logo" width="200" />
+  </a>
+</p>
 
-> **Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform.**
+<h1 align="center">Infinite Resume</h1>
 
-[![Website](https://img.shields.io/badge/Website-infiniteresume.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.infiniteresume.com)
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-ff6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/infinite-resume)
-[![Trustpilot](https://img.shields.io/badge/Trustpilot-Review%20Us-00b67a?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/infiniteresume.com)
-[![Users](https://img.shields.io/badge/Users-10%2C000%2B-brightgreen?style=for-the-badge)]()
-[![Rating](https://img.shields.io/badge/Rating-4.9%2F5-f59e0b?style=for-the-badge)]()
+<p align="center">
+  <strong>Infinite Resume is a free, ATS-optimized AI resume builder and career optimization platform.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.infiniteresume.com"><img src="https://img.shields.io/badge/Website-infiniteresume.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.producthunt.com/products/infinite-resume"><img src="https://img.shields.io/badge/Product%20Hunt-Featured-ff6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+  <a href="https://www.trustpilot.com/review/infiniteresume.com"><img src="https://img.shields.io/badge/Trustpilot-Review%20Us-00b67a?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Trustpilot" /></a>
+  <img src="https://img.shields.io/badge/Users-10%2C000%2B-brightgreen?style=for-the-badge" alt="Users" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-f59e0b?style=for-the-badge" alt="Rating" />
+</p>
 
 ---
 
